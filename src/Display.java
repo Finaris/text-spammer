@@ -1,5 +1,5 @@
 /**
- * @author Joseph Torres
+ * @author Madelyn Torres
  */
 
 import java.awt.Dimension;
